@@ -1,0 +1,18 @@
+os:xubuntu
+
+wm:i3-gaps
+
+bar:polybar
+
+file manger: ranger
+
+windows compositor: picom
+
+os info:neofetch
+
+
+Listing the files in here:
+
+
+applications open:spotify-tui cmatirix vim ranger firefox betterdiscord neofetch
+
