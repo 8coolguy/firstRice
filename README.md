@@ -19,4 +19,5 @@ Yeaaaaa. I'm pretty new to linux in general,so I had to look up how to do every 
 ![page3up](https://github.com/8coolguy/firstRice/blob/master/page3up.png)
 ![page2up](https://github.com/8coolguy/firstRice/blob/master/page2up.png)
 ![page1up](https://github.com/8coolguy/firstRice/blob/master/page1up.png)
-![page4up](https://github.com/8coolguy/firstRice/blob/master/page4up.png)
+![page4up](https://github.com/8coolguy/firstRice/blob/master/page4up.png)   
+YEP
